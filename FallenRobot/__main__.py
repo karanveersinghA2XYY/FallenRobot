@@ -92,7 +92,7 @@ buttons = [
         InlineKeyboardButton(text="📓 ʜᴇʟᴩ ", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="📍 ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
+        InlineKeyboardButton(text="📍 ᴀʙᴏᴜᴛ ", callback_data="fallen_"),
         InlineKeyboardButton(text="🚑 sᴜᴩᴩᴏʀᴛ ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -409,7 +409,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="📍Apple",
+                            text="ᴀᴘᴘʟᴇ",
                             url="https://t.me/Old_worlds_map",
                         ),
                     ],
@@ -446,7 +446,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*Join our group :* [Here](https://t.me/ENGLISH_SPEAKERSSS)
+*ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ :* [Here](https://t.me/ENGLISH_SPEAKERSSS)
 
 
 {BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [Apple](https://t.me/Old_worlds_map).
